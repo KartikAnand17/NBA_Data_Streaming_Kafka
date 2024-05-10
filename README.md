@@ -1,7 +1,7 @@
 # NBA Data Streaming Using Spark Structured Streaming, Kafka, Reddit API
 
 ### Introduction
-This project focuses on implementing a specified data processing workflow using the Reddit platform as the data source. We adhere closely to the outlined project requirements by streaming real-time comments from the 'nba' subreddit using PRAW (Python Reddit API Wrapper). The goal is to analyze these comments for named entity recognition, count occurrences, and visualize the data using a series of interconnected technologies.
+This project focuses on implementing a specified data processing workflow using the Reddit platform as the data source. We stream real-time comments from the 'nba' subreddit using PRAW (Python Reddit API Wrapper). The goal is to analyze these comments for named entity recognition, count occurrences, and visualize the data using a series of interconnected technologies.
 
 ### Architecture
 
