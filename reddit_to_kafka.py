@@ -3,8 +3,8 @@ from kafka import KafkaProducer
 import json
 
 # Reddit API credentials
-reddit = praw.Reddit(client_id='6bD3OJevsYkamnfMSpgtMg',
-                     client_secret='hy9_StzGddo8ZomO8_e327sO4WZtPw',
+reddit = praw.Reddit(client_id='INPUT CLIENT ID',
+                     client_secret='INPUT CLIENT SECRET',
                      user_agent='windows:RedditStreamer:1.0')
 
 # Kafka configuration
